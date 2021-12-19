@@ -1,6 +1,6 @@
 const authConfig = {
   "siteName": "GoIndex Extended", // WebSite Name
-  "siteIcon": "https://cdn.jsdelivr.net/gh/eshion/goindex-extended/master/images/favicon-x.png", //or fevicon-x-light.png
+  "siteIcon": "https://cdn.jsdelivr.net/gh/eshion/goindex-extended/images/favicon-x.png", //or fevicon-x-light.png
   "version": "1.4.1", // VersionControl, do not modify manually
   // client_id & client_secret - PLEASE USE YOUR OWN!
   "client_id": "", // Client ID
